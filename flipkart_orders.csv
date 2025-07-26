@@ -1,0 +1,11 @@
+OrderID,ProductName,Category,SubCategory,OrderDate,CustomerID,Price,Quantity
+10001,Apple iPhone 14,Electronics,Mobile,2024-01-05,C001,70000,1
+10001,Spigen iPhone Case,Accessories,Mobile Case,2024-01-05,C001,1200,1
+10002,HP Laptop 15s,Electronics,Laptop,2024-01-07,C002,55000,1
+10003,Adidas T-Shirt,Fashion,Clothing,2024-01-07,C003,1500,2
+10003,Levi's Jeans,Fashion,Clothing,2024-01-07,C003,2500,1
+10004,Samsung Galaxy Buds,Electronics,Earbuds,2024-01-09,C004,8000,1
+10005,Boat Earphones,Electronics,Earphones,2024-01-10,C005,999,1
+10005,OnePlus Nord CE 3,Electronics,Mobile,2024-01-10,C005,25000,1
+10005,Mobile Screen Protector,Accessories,Mobile Accessories,2024-01-10,C005,299,2
+10006,Wildcraft Backpack,Fashion,Bags,2024-01-11,C006,2000,1
